@@ -11,7 +11,4 @@ module.exports = {
       accounts: [process.env.REACT_APP_PRIVATE_KEY]
     },
   },
-  etherscan: {
-    apiKey: process.env.REACT_APP_ETHERSCAN_KEY,
-  },
 };
